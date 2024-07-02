@@ -3,5 +3,4 @@ tambah baris 2
 perubahan 1 dari user ndo-work
 perubahan 2 user ndo-work
 perubahan 2 user ndo-iht 1
-perubahan 3 ndo-iht
 perubahan 3 ndo-work
