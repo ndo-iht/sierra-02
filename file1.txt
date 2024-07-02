@@ -1,1 +1,3 @@
 menambah file1.txt
+tambah baris 2
+perubahan 1 dari user ndo-work
