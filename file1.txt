@@ -3,8 +3,5 @@ tambah baris 2
 perubahan 1 dari user ndo-work
 perubahan 2 user ndo-work
 perubahan 2 user ndo-iht 1
-<<<<<<< HEAD
 perubahan 3 ndo-iht
-=======
 perubahan 3 ndo-work
->>>>>>> 59c6e40ad84c86feef866a128691ca66db6add9b
